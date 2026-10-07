@@ -1,0 +1,1632 @@
+{
+  "albums": [
+    {
+      "title": "Dhol Vagyo",
+      "year": "2014",
+      "image": "images/th-vid-15.jpg"
+    },
+    {
+      "title": "Punjab",
+      "year": "2014",
+      "image": "images/th-dis-punjab.jpg"
+    },
+    {
+      "title": "Dhol",
+      "year": "2014",
+      "image": "images/th-dis-dhol.jpg"
+    },
+    {
+      "title": "Shaheed Bhagat Singh",
+      "year": "2013",
+      "image": "images/th-dis-saheed.jpg"
+    },
+    {
+      "title": "Bhangra",
+      "year": "2011",
+      "image": "images/th-dis-bhangra.jpg"
+    },
+    {
+      "title": "Jassi - Back with a Bang",
+      "year": "2010",
+      "image": "images/th-dis-backwithbang.jpg"
+    },
+    {
+      "title": "Allah Hoo",
+      "year": "2010",
+      "image": "images/th-dis-alahoo.jpg"
+    },
+    {
+      "title": "Akh Mastani",
+      "year": "2007",
+      "image": "images/th-dis-akhmastani.jpg"
+    },
+    {
+      "title": "Mukhda Chann Varga",
+      "year": "2004",
+      "image": "images/th-dis-mukhda.jpg"
+    },
+    {
+      "title": "Just Jassi",
+      "year": "2003",
+      "image": "images/th-dis-justjassi.jpg"
+    },
+    {
+      "title": "Nishani Pyar Di",
+      "year": "2001",
+      "image": "images/th-dis-nishanidipyra.jpg"
+    },
+    {
+      "title": "Kudi Kudi",
+      "year": "1999",
+      "image": "images/th-dis-kudi-kudi.jpg"
+    },
+    {
+      "title": "Dil Le Gayee",
+      "year": "1998",
+      "image": "images/th-dis-dillegayee.jpg"
+    },
+    {
+      "title": "India Di Balle Balle",
+      "year": "",
+      "image": "images/th-dis-indiadiballe.jpg"
+    }
+  ],
+  "films": [
+    {
+      "title": "Khushiyaan",
+      "year": "2011",
+      "image": "images/th-film-khushiyaan.jpg"
+    },
+    {
+      "title": "Patiala House- \"Laungda Lashkara\"",
+      "year": "",
+      "image": "images/th-film-patialahouse.jpg"
+    },
+    {
+      "title": "Dobara-\"Pyar Mere\"",
+      "year": "",
+      "image": "images/th-film-dobara.jpg"
+    },
+    {
+      "title": "Hope and a Little Sugar -\"Mahiya\"",
+      "year": "",
+      "image": "images/th-film-hopealittlesugar.jpg"
+    },
+    {
+      "title": "Mel Karade Rabba-title track",
+      "year": "",
+      "image": "images/th-film-melkarade.jpg"
+    },
+    {
+      "title": "Heer Ranjha (Acting)",
+      "year": "",
+      "image": "images/th-film-heerranjha.jpg"
+    }
+  ],
+  "videos": [
+    {
+      "title": "Ek Tara Vajda",
+      "description": "Official Video Song by Jasbir Jassi - 2024",
+      "image": "images/Ek-Tara-Vajda-2.jpg",
+      "url": "https://www.youtube.com/watch?v=QLCKejc_CX4"
+    },
+    {
+      "title": "Yaad",
+      "description": "Official Video Song by Jasbir Jassi - 2024",
+      "image": "images/yaad-1.jpg",
+      "url": "https://www.youtube.com/watch?v=iNat40f6oXU"
+    },
+    {
+      "title": "HOKKE",
+      "description": "Official Video Song by Jasbir Jassi - 2024",
+      "image": "images/hokke.jpg",
+      "url": "https://www.youtube.com/watch?v=1OwyT1p9yiI"
+    },
+    {
+      "title": "Nachda Alam Sara",
+      "description": "Official Video Song by Jasbir Jassi - 2024",
+      "image": "images/th-vid-35.jpg",
+      "url": "https://www.youtube.com/watch?v=zS4anOMv2S8"
+    },
+    {
+      "title": "ANGELS",
+      "description": "Official Video Song by Jasbir Jassi - 2024",
+      "image": "images/th-vid-36.jpg",
+      "url": "https://www.youtube.com/watch?v=7l9tMFOk3gA"
+    },
+    {
+      "title": "Aarti Full EP",
+      "description": "Official Video Song by Jasbir Jassi - 2024",
+      "image": "images/th-vid-37.jpg",
+      "url": "https://www.youtube.com/watch?v=W0yrn7rZZ1g"
+    },
+    {
+      "title": "Lehanga",
+      "description": "Official music video \u00b7 2022",
+      "image": "images/th-vid-38.jpg",
+      "url": "https://www.youtube.com/watch?v=qBLmItodwVs"
+    },
+    {
+      "title": "Maaf Kari Baba Nanaka",
+      "description": "Official music video \u00b7 2022",
+      "image": "images/th-vid-31.jpg",
+      "url": "https://www.youtube.com/watch?v=JRm2RDNJ2n0"
+    },
+    {
+      "title": "Story Of Punjab",
+      "description": "Official Video Song by Jasbir Jassi - 2022",
+      "image": "images/th-vid-33.jpg",
+      "url": "https://www.youtube.com/watch?v=rfmSE7q3Zfw"
+    },
+    {
+      "title": "Ajj da Punjab (AAP)",
+      "description": "~ Apne Yaar Lahi - Bhagwantmann Arvindkejriwal - 2022",
+      "image": "images/th-vid-32.jpg",
+      "url": "https://www.youtube.com/watch?v=o42oF03-6lc"
+    },
+    {
+      "title": "Kasad",
+      "description": "Official Video Song by Jasbir Jassi - 2022",
+      "image": "images/th-vid-20.jpg",
+      "url": "https://www.youtube.com/watch?v=T8EruPkyDZQ"
+    },
+    {
+      "title": "Why Nachdi Na",
+      "description": "Official Video Song by Jasbir Jassi - 2022",
+      "image": "images/th-vid-21.jpg",
+      "url": "https://www.youtube.com/watch?v=Fax4FDQ9xLI"
+    },
+    {
+      "title": "Heer",
+      "description": "Official Video Song by Jasbir Jassi ft Deviqa Arya | Waris Shah - 2021",
+      "image": "images/th-vid-22.jpg",
+      "url": "https://www.youtube.com/watch?v=7z4jLN9lbs8"
+    },
+    {
+      "title": "Jaani",
+      "description": "Jasbir Jassi | Surinder Khan | New Punjabi Song 2021",
+      "image": "images/th-vid-24.jpg",
+      "url": "https://www.youtube.com/watch?v=pdu6uibryI4"
+    },
+    {
+      "title": "Rooh Da Hani",
+      "description": "Rooh Da Hani | Jasbir Jassi | Jonita Doda | New Punjabi Song 2021",
+      "image": "images/th-vid-23.jpg",
+      "url": "https://www.youtube.com/watch?v=xJux_P5nZBA"
+    },
+    {
+      "title": "AZAADI - The Independence",
+      "description": "Jasbir Jassi FT. Nobby Singh | Independence Day Special 2021",
+      "image": "images/th-vid-25.jpg",
+      "url": "https://www.youtube.com/watch?v=j9W3qQDM0LE"
+    },
+    {
+      "title": "Ik Sufna",
+      "description": "Jasbir Jassi | New Punjabi Song 2020",
+      "image": "images/th-vid-28.jpg",
+      "url": "https://www.youtube.com/watch?v=0Jo9DE5b1pg"
+    },
+    {
+      "title": "Dil Mangdi",
+      "description": "Jasbir Jassi | Aneesha Madhok | Ishika Taneja |Simba S,Jerry S,Parmod S Rana",
+      "image": "images/th-vid-29.jpg",
+      "url": "https://www.youtube.com/watch?v=b1adTx8wfts"
+    },
+    {
+      "title": "Vede Aa Varh",
+      "description": "Jasbir Jassi | Baba Bulle Shah | Raajeev V Bhalla",
+      "image": "images/th-vid-30.jpg",
+      "url": "https://www.youtube.com/watch?v=65QtNT1Hf1A"
+    },
+    {
+      "title": "Meri Channo",
+      "description": "Official Video Song by Jasbir Jassi - 2019",
+      "image": "images/th-vid-18.jpg",
+      "url": "https://www.youtube.com/watch?v=jSCvotKXhfg"
+    },
+    {
+      "title": "Haaye Ve",
+      "description": "Official Video Song by Jasbir Jassi - 2019",
+      "image": "images/th-vid-19.jpg",
+      "url": "https://www.youtube.com/watch?v=glaZwDDrTSo"
+    },
+    {
+      "title": "Tere Thumke",
+      "description": "Official Video Song by Jasbir Jassi - 2018",
+      "image": "images/terethumke.jpg",
+      "url": "https://www.youtube.com/watch?v=k1kaTGUHgDs"
+    },
+    {
+      "title": "Punjab Mere Layi",
+      "description": "Punjabi Song 2016",
+      "image": "images/punjab_mere_layi_v.jpg",
+      "url": "https://www.youtube.com/watch?v=loAual6sMqM"
+    },
+    {
+      "title": "Dhol Vagyo",
+      "description": "Latest Garba Songs 2014",
+      "image": "images/th-vid-15.jpg",
+      "url": "https://www.youtube.com/watch?v=YiKwfcEVCdo"
+    },
+    {
+      "title": "Punjab",
+      "description": "Punjabi Song 2014",
+      "image": "images/th-vid-14.jpg",
+      "url": "https://www.youtube.com/watch?v=S2UT2gl-SZc"
+    },
+    {
+      "title": "Dhol",
+      "description": "Punjabi Songs 2014",
+      "image": "images/th-vid-1.jpg",
+      "url": "https://www.youtube.com/watch?v=_Fh2xJPoLCU"
+    },
+    {
+      "title": "Patiala House",
+      "description": "Laung Da Lashkara",
+      "image": "images/th-vid-14-patialahouse.jpg",
+      "url": "https://www.youtube.com/watch?v=hArZnPWxb4A"
+    },
+    {
+      "title": "Coke Studio @ MTV Season 2",
+      "description": "Subhan Allah",
+      "image": "images/th-vid-13-cokestudio.jpg",
+      "url": "https://www.youtube.com/watch?v=i_ISKPYdVh8"
+    },
+    {
+      "title": "Jasbir Jassi",
+      "description": "Teri yaad",
+      "image": "images/th-vid-15-teriyaad.jpg",
+      "url": "https://www.youtube.com/watch?v=yO6kUqpSbCU"
+    },
+    {
+      "title": "Jasbir Jassi",
+      "description": "Jugni",
+      "image": "images/th-vid-16-jugni.jpg",
+      "url": "https://www.youtube.com/watch?v=oqZUUIRP_ZE"
+    },
+    {
+      "title": "Jasbir Jassi",
+      "description": "Mahiya",
+      "image": "images/th-vid-10.jpg",
+      "url": "https://www.youtube.com/watch?v=JcWz_nwcY54"
+    },
+    {
+      "title": "Jasbir Jassi",
+      "description": "Vichre",
+      "image": "images/th-vid-17-vichre.jpg",
+      "url": "https://www.youtube.com/watch?v=F1a1w78JDjQ"
+    },
+    {
+      "title": "Akh Mastani",
+      "description": "Akh Mastani",
+      "image": "images/th-vid-8.jpg",
+      "url": "https://www.youtube.com/watch?v=KWALRe9aOqc"
+    },
+    {
+      "title": "Mukhda Chann Warga",
+      "description": "Ek Gera",
+      "image": "images/th-vid-9.jpg",
+      "url": "https://www.youtube.com/watch?v=b45beBqtwAE"
+    },
+    {
+      "title": "Mehandi",
+      "description": "Back with a Bang",
+      "image": "images/th-vid-7.jpg",
+      "url": "https://www.youtube.com/watch?v=GYYr076LzZY"
+    },
+    {
+      "title": "Just Jassi",
+      "description": "Koka Tera Kuch Kuch",
+      "image": "images/th-vid-11.jpg",
+      "url": "https://www.youtube.com/watch?v=WyWhkFDtQkM"
+    }
+  ],
+  "gallery": [
+    {
+      "image": "gallery/latest/new-front-1.jpg",
+      "category": "Latest Pictures"
+    },
+    {
+      "image": "gallery/latest/new7.jpg",
+      "category": "Latest Pictures"
+    },
+    {
+      "image": "gallery/latest/new8.jpg",
+      "category": "Latest Pictures"
+    },
+    {
+      "image": "gallery/latest/new9.jpg",
+      "category": "Latest Pictures"
+    },
+    {
+      "image": "gallery/latest/new10.jpg",
+      "category": "Latest Pictures"
+    },
+    {
+      "image": "gallery/latest/new11.jpg",
+      "category": "Latest Pictures"
+    },
+    {
+      "image": "gallery/latest/new12.jpg",
+      "category": "Latest Pictures"
+    },
+    {
+      "image": "gallery/latest/new2.jpg",
+      "category": "Latest Pictures"
+    },
+    {
+      "image": "gallery/latest/new3.jpg",
+      "category": "Latest Pictures"
+    },
+    {
+      "image": "gallery/latest/new4.jpg",
+      "category": "Latest Pictures"
+    },
+    {
+      "image": "gallery/latest/new5.jpg",
+      "category": "Latest Pictures"
+    },
+    {
+      "image": "gallery/latest/new6.jpg",
+      "category": "Latest Pictures"
+    },
+    {
+      "image": "gallery/latest/22.jpg",
+      "category": "Latest Pictures"
+    },
+    {
+      "image": "gallery/latest/23.jpg",
+      "category": "Latest Pictures"
+    },
+    {
+      "image": "gallery/latest/24.jpg",
+      "category": "Latest Pictures"
+    },
+    {
+      "image": "gallery/latest/25.jpg",
+      "category": "Latest Pictures"
+    },
+    {
+      "image": "gallery/latest/26.jpg",
+      "category": "Latest Pictures"
+    },
+    {
+      "image": "gallery/latest/27.jpg",
+      "category": "Latest Pictures"
+    },
+    {
+      "image": "gallery/latest/1.jpg",
+      "category": "Latest Pictures"
+    },
+    {
+      "image": "gallery/latest/2.jpg",
+      "category": "Latest Pictures"
+    },
+    {
+      "image": "gallery/latest/3.jpg",
+      "category": "Latest Pictures"
+    },
+    {
+      "image": "gallery/latest/4.jpg",
+      "category": "Latest Pictures"
+    },
+    {
+      "image": "gallery/latest/5.jpg",
+      "category": "Latest Pictures"
+    },
+    {
+      "image": "gallery/latest/6.jpg",
+      "category": "Latest Pictures"
+    },
+    {
+      "image": "gallery/latest/7.jpg",
+      "category": "Latest Pictures"
+    },
+    {
+      "image": "gallery/latest/8.jpg",
+      "category": "Latest Pictures"
+    },
+    {
+      "image": "gallery/latest/9.jpg",
+      "category": "Latest Pictures"
+    },
+    {
+      "image": "gallery/latest/10.jpg",
+      "category": "Latest Pictures"
+    },
+    {
+      "image": "gallery/latest/11.jpg",
+      "category": "Latest Pictures"
+    },
+    {
+      "image": "gallery/latest/12.jpg",
+      "category": "Latest Pictures"
+    },
+    {
+      "image": "gallery/latest/13.jpg",
+      "category": "Latest Pictures"
+    },
+    {
+      "image": "gallery/latest/14.jpg",
+      "category": "Latest Pictures"
+    },
+    {
+      "image": "gallery/latest/15.jpg",
+      "category": "Latest Pictures"
+    },
+    {
+      "image": "gallery/latest/16.jpg",
+      "category": "Latest Pictures"
+    },
+    {
+      "image": "gallery/latest/17.jpg",
+      "category": "Latest Pictures"
+    },
+    {
+      "image": "gallery/latest/18.jpg",
+      "category": "Latest Pictures"
+    },
+    {
+      "image": "gallery/latest/19.jpg",
+      "category": "Latest Pictures"
+    },
+    {
+      "image": "gallery/latest/20.jpg",
+      "category": "Latest Pictures"
+    },
+    {
+      "image": "gallery/latest/21.jpg",
+      "category": "Latest Pictures"
+    },
+    {
+      "image": "gallery/old/o1.jpg",
+      "category": "Old Memories"
+    },
+    {
+      "image": "gallery/old/o2.jpg",
+      "category": "Old Memories"
+    },
+    {
+      "image": "gallery/old/o3.jpg",
+      "category": "Old Memories"
+    },
+    {
+      "image": "gallery/old/o4.jpg",
+      "category": "Old Memories"
+    },
+    {
+      "image": "gallery/old/o5.jpg",
+      "category": "Old Memories"
+    },
+    {
+      "image": "gallery/old/o6.jpg",
+      "category": "Old Memories"
+    },
+    {
+      "image": "gallery/old/o7.jpg",
+      "category": "Old Memories"
+    },
+    {
+      "image": "gallery/old/o8.jpg",
+      "category": "Old Memories"
+    },
+    {
+      "image": "gallery/old/o9.jpg",
+      "category": "Old Memories"
+    },
+    {
+      "image": "gallery/old/o10.jpg",
+      "category": "Old Memories"
+    },
+    {
+      "image": "gallery/old/o11.jpg",
+      "category": "Old Memories"
+    },
+    {
+      "image": "gallery/old/o12.jpg",
+      "category": "Old Memories"
+    },
+    {
+      "image": "gallery/old/o13.jpg",
+      "category": "Old Memories"
+    },
+    {
+      "image": "gallery/old/o14.jpg",
+      "category": "Old Memories"
+    },
+    {
+      "image": "gallery/old/o15.jpg",
+      "category": "Old Memories"
+    },
+    {
+      "image": "gallery/old/o16.jpg",
+      "category": "Old Memories"
+    },
+    {
+      "image": "gallery/old/o17.jpg",
+      "category": "Old Memories"
+    },
+    {
+      "image": "gallery/old/o18.jpg",
+      "category": "Old Memories"
+    },
+    {
+      "image": "gallery/old/o19.jpg",
+      "category": "Old Memories"
+    },
+    {
+      "image": "gallery/old/o20.jpg",
+      "category": "Old Memories"
+    },
+    {
+      "image": "gallery/good-times/g1.jpg",
+      "category": "Good Times"
+    },
+    {
+      "image": "gallery/good-times/g2.jpg",
+      "category": "Good Times"
+    },
+    {
+      "image": "gallery/good-times/g3.jpg",
+      "category": "Good Times"
+    },
+    {
+      "image": "gallery/good-times/g4.jpg",
+      "category": "Good Times"
+    },
+    {
+      "image": "gallery/good-times/g5.jpg",
+      "category": "Good Times"
+    },
+    {
+      "image": "gallery/good-times/g6.jpg",
+      "category": "Good Times"
+    },
+    {
+      "image": "gallery/good-times/g7.jpg",
+      "category": "Good Times"
+    },
+    {
+      "image": "gallery/good-times/g8.jpg",
+      "category": "Good Times"
+    },
+    {
+      "image": "gallery/good-times/g9.jpg",
+      "category": "Good Times"
+    },
+    {
+      "image": "gallery/good-times/g10.jpg",
+      "category": "Good Times"
+    },
+    {
+      "image": "gallery/good-times/g11.jpg",
+      "category": "Good Times"
+    },
+    {
+      "image": "gallery/good-times/g12.jpg",
+      "category": "Good Times"
+    },
+    {
+      "image": "gallery/good-times/g13.jpg",
+      "category": "Good Times"
+    },
+    {
+      "image": "gallery/good-times/g14.jpg",
+      "category": "Good Times"
+    },
+    {
+      "image": "gallery/good-times/g15.jpg",
+      "category": "Good Times"
+    },
+    {
+      "image": "gallery/good-times/g16.jpg",
+      "category": "Good Times"
+    },
+    {
+      "image": "gallery/good-times/g17.jpg",
+      "category": "Good Times"
+    },
+    {
+      "image": "gallery/good-times/g18.jpg",
+      "category": "Good Times"
+    },
+    {
+      "image": "gallery/good-times/g19.jpg",
+      "category": "Good Times"
+    },
+    {
+      "image": "gallery/good-times/g20.jpg",
+      "category": "Good Times"
+    }
+  ],
+  "press": [
+    {
+      "publication": "Daily Post",
+      "date": "31 july 2024",
+      "image": "images/press-1.jpg",
+      "full": "images/press-1.1.jpg"
+    },
+    {
+      "publication": "Daily Post",
+      "date": "30 july 2024",
+      "image": "images/press-2.jpg",
+      "full": "images/press-2.1.jpg"
+    },
+    {
+      "publication": "HT City Lifestyle",
+      "date": "25 February 2023",
+      "image": "images/press/th/25feb2023th.jpg",
+      "full": "images/press/25feb2023.jpg"
+    },
+    {
+      "publication": "HT City",
+      "date": "1 May 2015",
+      "image": "images/press/th/th-press-24.jpg",
+      "full": "images/press/htcity1may2015jasbirjassi.jpg"
+    },
+    {
+      "publication": "HT City",
+      "date": "20 February 2015",
+      "image": "images/press/th/th-press-23.jpg",
+      "full": "images/press/jasbirjassipresshtcity20feb.jpg"
+    },
+    {
+      "publication": "Delhi Times",
+      "date": "12 December 2014",
+      "image": "images/press/th/th-press.jpg",
+      "full": "images/press/delhitimes12dec-2014.jpg"
+    },
+    {
+      "publication": "Delhi Times",
+      "date": "9 September 2014",
+      "image": "images/press/th/th-press-21.jpg",
+      "full": "images/press/DelhitimesPress-AshokMastie-JasbirJassi.jpg"
+    },
+    {
+      "publication": "Delhi Times",
+      "date": "21 April 2014",
+      "image": "images/press/th/th-press-20.jpg",
+      "full": "images/press/delhitimes21april2014jasbijassi.jpg"
+    },
+    {
+      "publication": "The Indian Express",
+      "date": "9 April 2014",
+      "image": "images/press/th/th-press-17.jpg",
+      "full": "images/press/theindianexpress9april2014jasbirjassi.jpg"
+    },
+    {
+      "publication": "Times of India",
+      "date": "25 March 2014",
+      "image": "images/press/th/th-press-18.jpg",
+      "full": "images/press/toi25march2014jasbirjassi.jpg"
+    },
+    {
+      "publication": "Punjab Kesari",
+      "date": "12 March 2014",
+      "image": "images/press/th/th-press-19.jpg",
+      "full": "images/press/punjabkesari12march2014jasbir.jpg"
+    },
+    {
+      "publication": "The Times of India",
+      "date": "February 26, 2014",
+      "image": "images/press/th/th-press-15.jpg",
+      "full": "http://timesofindia.indiatimes.com/videos/entertainment/bollywood/Jasbir-Jassi-refuses-to-sing-for-Salman-Khans-Kick/videoshow/31057064.cms"
+    },
+    {
+      "publication": "Hindustan Times, New Delhi",
+      "date": "25 Feb 2014",
+      "image": "images/press/th/th-press-10.jpg",
+      "full": "http://www.hindustantimes.com/entertainment/music/jasbir-jassi-to-fight-against-vulgar-lyrics/article1-1188023.aspx"
+    },
+    {
+      "publication": "HT City",
+      "date": "12 Feb 2014",
+      "image": "images/press/th/th-press-1.jpg",
+      "full": "images/press/htcity12feb2014.jpg"
+    },
+    {
+      "publication": "Dailybhaskar.com",
+      "date": "",
+      "image": "images/press/th/th-press-12.jpg",
+      "full": "http://daily.bhaskar.com/article/ENT-jassi-is-right-we-want-indi-pop-music-back-singers-agree-with-jasbirs-cause-4532466-NOR.html"
+    },
+    {
+      "publication": "Dailybhaskar.com",
+      "date": "",
+      "image": "images/press/th/th-press-11.jpg",
+      "full": "http://daily.bhaskar.com/article/ENT-shocking-jasbir-jassi-refuses-to-sing-for-salman-khans-film-kick-claims-he-was-b-4531410-PHO.html?seq=1&??121212??121212"
+    },
+    {
+      "publication": "Jasbir Jassi's new album 'Dhol' is a celebration of folk | Interview | Exclusive",
+      "date": "",
+      "image": "images/press/th/th-press-16.jpg",
+      "full": "http://www.youtube.com/embed/26rDasPH4fc?rel=0&wmode=transparent"
+    },
+    {
+      "publication": "Tribuneindia, Chandigarh, India",
+      "date": "February 9, 2014",
+      "image": "images/press/th/th-press-14.jpg",
+      "full": "http://www.tribuneindia.com/2014/20140209/ttlife1.htm#2"
+    },
+    {
+      "publication": "The Times of India",
+      "date": "February 7, 2014",
+      "image": "images/press/th/th-press-13.jpg",
+      "full": "http://timesofindia.indiatimes.com/entertainment/hindi/music/news-and-interviews/I-want-to-promote-the-purity-of-Punjabi-music-Jasbir-Jassi/articleshow/29952239.cms?referral=PM"
+    },
+    {
+      "publication": "Bombay Times",
+      "date": "7 Feb 2014",
+      "image": "images/press/th/th-press-2.jpg",
+      "full": "images/press/bt7feb2014.jpg"
+    },
+    {
+      "publication": "HT City",
+      "date": "28 June 2012",
+      "image": "images/press/th/th-press-3.jpg",
+      "full": "images/press/htcity28june2012.jpg"
+    },
+    {
+      "publication": "Hindustan Times",
+      "date": "3 May 2012",
+      "image": "images/press/th/th-press-4.jpg",
+      "full": "images/press/ht-3may-2012.jpg"
+    },
+    {
+      "publication": "Delhi Times",
+      "date": "21 April 2012",
+      "image": "images/press/th/th-press-5.jpg",
+      "full": "images/press/dt21apr2012.jpg"
+    },
+    {
+      "publication": "Hindustan Times",
+      "date": "4 April 2012",
+      "image": "images/press/th/th-press-6.jpg",
+      "full": "images/press/ht-4april2012.jpg"
+    },
+    {
+      "publication": "Delhi Times",
+      "date": "3 March 2012",
+      "image": "images/press/th/th-press-7.jpg",
+      "full": "images/press/dt4mar2012.jpg"
+    }
+  ],
+  "recent_releases": [
+    {
+      "title": "Addiyaan",
+      "year": "2026",
+      "type": "Single",
+      "url": "https://music.amazon.in/albums/B0GSVMGPPZ"
+    },
+    {
+      "title": "Teri Chan Ve",
+      "year": "2026",
+      "type": "Single",
+      "url": "https://music.amazon.in/albums/B0GLQ37G3J"
+    },
+    {
+      "title": "Nach Nach Ke Lohri",
+      "year": "2026",
+      "type": "With Muhammad Sadiq",
+      "url": "https://music.amazon.in/albums/B0GFP5WWDS"
+    },
+    {
+      "title": "Ganni",
+      "year": "2025",
+      "type": "Single",
+      "url": "https://music.amazon.in/albums/B0G6TSXWM4"
+    },
+    {
+      "title": "Sufi Adda",
+      "year": "2025",
+      "type": "EP \u00b7 Four tracks",
+      "url": "https://music.amazon.in/albums/B0G64CN639"
+    },
+    {
+      "title": "Eh Hind Na Hunda",
+      "year": "2025",
+      "type": "Single",
+      "url": "https://music.amazon.in/albums/B0G2BQ31LN"
+    },
+    {
+      "title": "Salok Mahalla 9",
+      "year": "2025",
+      "type": "Devotional release",
+      "url": "https://music.amazon.in/albums/B0FZW5XQFK"
+    },
+    {
+      "title": "Sees Diya Par Sirar Na Diya",
+      "year": "2025",
+      "type": "Single",
+      "url": "https://music.amazon.in/albums/B0FZBWLD34"
+    },
+    {
+      "title": "Ishq-E-Desi",
+      "year": "2025",
+      "type": "Jassi Weds Jassi \u00b7 Soundtrack",
+      "url": "https://music.amazon.in/albums/B0FZ9297V7"
+    },
+    {
+      "title": "Guru Ram Das",
+      "year": "2025",
+      "type": "With Balbir Beera",
+      "url": "https://music.amazon.in/albums/B0FTXB3DSG"
+    },
+    {
+      "title": "Heer Main Vekhi",
+      "year": "2025",
+      "type": "Heer Express \u00b7 Soundtrack",
+      "url": "https://music.amazon.in/albums/B0FND2XN93"
+    }
+  ],
+  "sources": [
+    "https://www.jasbirjassi.com/",
+    "https://en.wikipedia.org/wiki/Jasbir_Jassi",
+    "https://www.imdb.com/name/nm1749447/",
+    "https://music.amazon.in/artists/B000QKQ8VO/jasbir-jassi",
+    "https://www.youtube.com/@JasbirJassiOfficial"
+  ],
+  "social_links": {
+    "Instagram": "https://www.instagram.com/jassijasbir/",
+    "Facebook": "https://www.facebook.com/jasbirjassi",
+    "YouTube": "https://www.youtube.com/@JasbirJassiOfficial",
+    "X": "https://x.com/JJassiOfficial"
+  },
+  "listening_links": {
+    "Spotify": "https://open.spotify.com/artist/2wmT2Bx63mrFKMYGQieYi3",
+    "Amazon Music": "https://music.amazon.in/artists/B000QKQ8VO/jasbir-jassi",
+    "ReverbNation": "https://www.reverbnation.com/jasbirjassi"
+  },
+  "film_credits": [
+    {
+      "title": "Khushiyaan",
+      "year": "2011",
+      "credit": "Acting \u00b7 Lead role",
+      "artwork": {
+        "title": "Khushiyaan",
+        "page_url": "https://en.wikipedia.org/wiki/Khushiyaan",
+        "image_url": "https://www.jasbirjassi.com/images/th-film-khushiyaan.jpg",
+        "asset": "assets/images__th-film-khushiyaan.jpg",
+        "dimensions": [
+          380,
+          210
+        ]
+      }
+    },
+    {
+      "title": "Patiala House",
+      "year": "2011",
+      "credit": "Playback vocals \u00b7 \u201cLaungda Lashkara\u201d",
+      "artwork": {
+        "title": "Patiala House",
+        "page_url": "https://en.wikipedia.org/wiki/Patiala_House",
+        "image_url": "https://www.jasbirjassi.com/images/th-film-patialahouse.jpg",
+        "asset": "assets/images__th-film-patialahouse.jpg",
+        "dimensions": [
+          380,
+          210
+        ]
+      }
+    },
+    {
+      "title": "Heer Express",
+      "year": "2025",
+      "credit": "Playback vocals \u00b7 \u201cHeer Main Vekhi\u201d",
+      "artwork": {
+        "title": "Heer Express",
+        "page_url": "https://en.wikipedia.org/wiki/Heer_Express",
+        "image_url": "https://upload.wikimedia.org/wikipedia/en/e/e6/Heer_Express.jpg",
+        "asset": "assets/films__heer-express.jpg",
+        "dimensions": [
+          284,
+          351
+        ]
+      }
+    },
+    {
+      "title": "Jassi Weds Jassi",
+      "year": "2025",
+      "credit": "Playback vocals \u00b7 \u201cIshq-E-Desi\u201d",
+      "artwork": {
+        "title": "Jassi Weds Jassi",
+        "page_url": "https://en.wikipedia.org/wiki/Jassi_Weds_Jassi",
+        "image_url": "https://upload.wikimedia.org/wikipedia/en/0/09/Jassi_Weds_Jassi.jpeg",
+        "asset": "assets/films__jassi-weds-jassi.jpg",
+        "dimensions": [
+          282,
+          353
+        ]
+      }
+    },
+    {
+      "title": "Sharmaji Namkeen",
+      "year": "2022",
+      "credit": "Playback vocals \u00b7 \u201cYe Luthrey\u201d",
+      "artwork": {
+        "title": "Sharmaji Namkeen",
+        "page_url": "https://www.imdb.com/title/tt9098938/",
+        "image_url": "https://m.media-amazon.com/images/M/MV5BMDU1MTMwNzAtZTZlNi00MTRkLWFiYmItMjIxODJlZDFiYzJkXkEyXkFqcGc%40._V1_.jpg",
+        "asset": "assets/films__sharmaji-namkeen.jpg",
+        "dimensions": [
+          1080,
+          1080
+        ]
+      }
+    },
+    {
+      "title": "PR",
+      "year": "2022",
+      "credit": "Playback vocals \u00b7 \u201cRakh Haunsla\u201d",
+      "artwork": {
+        "title": "PR",
+        "page_url": "https://www.imdb.com/title/tt13161934/",
+        "image_url": "https://d32qys9a6wm9no.cloudfront.net/images/movies/poster/f1/8465de8478f8740469282d3c9da1c911_original.jpg?t=1653149133",
+        "asset": "assets/films__pr.jpg",
+        "dimensions": [
+          1000,
+          1440
+        ]
+      }
+    },
+    {
+      "title": "Paani Ch Madhaani",
+      "year": "2021",
+      "credit": "Playback vocals \u00b7 \u201cMehmaan\u201d",
+      "artwork": {
+        "title": "Paani Ch Madhaani",
+        "page_url": "https://en.wikipedia.org/wiki/Paani_Ch_Madhaani",
+        "image_url": "https://image.tmdb.org/t/p/w780/6pv6nTPKvbN9UvKXmTJEkaMNtVD.jpg",
+        "asset": "assets/films__paani-ch-madhaani.jpg",
+        "dimensions": [
+          780,
+          1170
+        ]
+      }
+    },
+    {
+      "title": "Hello Charlie",
+      "year": "2021",
+      "credit": "Music \u00b7 \u201cSoneya Ve\u201d",
+      "artwork": {
+        "title": "Hello Charlie",
+        "page_url": "https://en.wikipedia.org/wiki/Hello_Charlie",
+        "image_url": "https://upload.wikimedia.org/wikipedia/en/8/82/Hello_Charlie.jpg",
+        "asset": "assets/films__hello-charlie.jpg",
+        "dimensions": [
+          283,
+          354
+        ]
+      }
+    },
+    {
+      "title": "Kesari",
+      "year": "2019",
+      "credit": "Music department \u00b7 \u201cEk Onkar\u201d",
+      "artwork": {
+        "title": "Kesari",
+        "page_url": "https://en.wikipedia.org/wiki/Kesari_(2019_film)",
+        "image_url": "https://m.media-amazon.com/images/M/MV5BYzliMTNiNmYtNzI2NS00NGFmLWJjZDgtYjJkMzljZGM2MmUzXkEyXkFqcGc%40._V1_.jpg",
+        "asset": "assets/films__kesari.jpg",
+        "dimensions": [
+          730,
+          1024
+        ]
+      }
+    },
+    {
+      "title": "Khandaani Shafakhana",
+      "year": "2019",
+      "credit": "Playback vocals \u00b7 \u201cKoka\u201d",
+      "artwork": {
+        "title": "Khandaani Shafakhana",
+        "page_url": "https://en.wikipedia.org/wiki/Khandaani_Shafakhana",
+        "image_url": "https://upload.wikimedia.org/wikipedia/en/1/13/Khandaani_Shafakhana.jpg",
+        "asset": "assets/films__khandaani-shafakhana.jpg",
+        "dimensions": [
+          262,
+          380
+        ]
+      }
+    },
+    {
+      "title": "Sweetiee Weds NRI",
+      "year": "2017",
+      "credit": "Playback vocals \u00b7 \u201cKudi Gujarat Di\u201d",
+      "artwork": {
+        "title": "Sweetiee Weds NRI",
+        "page_url": "https://en.wikipedia.org/wiki/Sweetiee_Weds_NRI",
+        "image_url": "https://m.media-amazon.com/images/S/pv-target-images/483b970d416fb13cef0970a7acc360b489c83951224c43fe4cad0c3aeba92d1e.jpg",
+        "asset": "assets/films__sweetiee-weds-nri.jpg",
+        "dimensions": [
+          1200,
+          1600
+        ]
+      }
+    },
+    {
+      "title": "Dil Vil Pyaar Vyaar",
+      "year": "2014",
+      "credit": "Acting \u00b7 Government officer",
+      "artwork": {
+        "title": "Dil Vil Pyaar Vyaar",
+        "page_url": "https://en.wikipedia.org/wiki/Dil_Vil_Pyaar_Vyaar",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273f73aa12237e02f43700c8560",
+        "asset": "assets/films__dil-vil-pyaar-vyaar.jpg",
+        "dimensions": [
+          640,
+          640
+        ]
+      }
+    },
+    {
+      "title": "Fateh",
+      "year": "2014",
+      "credit": "Playback vocals \u00b7 \u201cVichre\u201d",
+      "artwork": {
+        "title": "Fateh",
+        "page_url": "https://en.wikipedia.org/wiki/Fateh_(2014_film)",
+        "image_url": "https://m.media-amazon.com/images/S/pv-target-images/d2dc567799fa29d48409540f8b8ab82c80391c6cd6f9d1c679681d0f18896938.jpg",
+        "asset": "assets/films__fateh.jpg",
+        "dimensions": [
+          1920,
+          1080
+        ]
+      }
+    },
+    {
+      "title": "Bha Ji in Problem",
+      "year": "2013",
+      "credit": "Acting",
+      "artwork": {
+        "title": "Bha Ji in Problem",
+        "page_url": "https://en.wikipedia.org/wiki/Bha_Ji_in_Problem",
+        "image_url": "https://upload.wikimedia.org/wikipedia/en/9/9c/Bhaji_in_Problem.jpg",
+        "asset": "assets/films__bha-ji-in-problem.jpg",
+        "dimensions": [
+          262,
+          378
+        ]
+      }
+    },
+    {
+      "title": "Mel Karade Rabba",
+      "year": "2010",
+      "credit": "Playback vocals \u00b7 Title song",
+      "artwork": {
+        "title": "Mel Karade Rabba",
+        "page_url": "https://en.wikipedia.org/wiki/Mel_Karade_Rabba",
+        "image_url": "https://m.media-amazon.com/images/I/913lidU2e8L._UXNaN_FMjpg_QL85_.jpg",
+        "asset": "assets/films__mel-karade-rabba.jpg",
+        "dimensions": [
+          2560,
+          2560
+        ]
+      }
+    },
+    {
+      "title": "Heer Ranjha",
+      "year": "2009",
+      "credit": "Acting \u00b7 Muraad",
+      "artwork": {
+        "title": "Heer Ranjha",
+        "page_url": "https://www.imdb.com/title/tt1599302/",
+        "image_url": "https://img.airtel.tv/unsafe/fit-in/500x0/filters%3Aformat%28webp%29/https%3A/xstreamcp-assets-msp.streamready.in/assets/EROSNOW/MOVIE/6822b10ff47dd75bc0561aad/images/SQUARE/Heer_Ranjha_A_True_Love_Story_Airtel_Airtel_1080x1080.jpg?o=production",
+        "asset": "assets/films__heer-ranjha.webp",
+        "dimensions": [
+          500,
+          500
+        ]
+      }
+    },
+    {
+      "title": "Munde U.K. De",
+      "year": "2009",
+      "credit": "Music department \u00b7 \u201cIk Kudi Utte\u201d",
+      "artwork": {
+        "title": "Munde U.K. De",
+        "page_url": "https://en.wikipedia.org/wiki/Munde_U.K._De",
+        "image_url": "https://upload.wikimedia.org/wikipedia/en/5/54/MundeUKDeFilmPoster.jpg",
+        "asset": "assets/films__munde-u-k-de.jpg",
+        "dimensions": [
+          246,
+          354
+        ]
+      }
+    },
+    {
+      "title": "Hope and a Little Sugar",
+      "year": "2006",
+      "credit": "Playback vocals \u00b7 \u201cMahiya\u201d",
+      "artwork": {
+        "title": "Hope and a Little Sugar",
+        "page_url": "https://en.wikipedia.org/wiki/Hope_and_a_Little_Sugar",
+        "image_url": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak%3D/v3/t/assets/p8472219_v_v8_aa.jpg",
+        "asset": "assets/films__hope-and-a-little-sugar.jpg",
+        "dimensions": [
+          960,
+          1440
+        ]
+      }
+    },
+    {
+      "title": "Dobara",
+      "year": "2004",
+      "credit": "Music & playback vocals \u00b7 \u201cPyar Mere\u201d",
+      "artwork": {
+        "title": "Dobara",
+        "page_url": "https://www.imdb.com/title/tt0430030/",
+        "image_url": "https://m.media-amazon.com/images/M/MV5BODg4Nzc1ZjktMzNhMy00YmZjLTk5NjEtYjE3YWVmM2Y0ODBhXkEyXkFqcGc%40._V1_.jpg",
+        "asset": "assets/films__dobara.jpg",
+        "dimensions": [
+          600,
+          600
+        ]
+      }
+    }
+  ],
+  "music_catalogue": [
+    {
+      "title": "Addiyaan",
+      "group": "recent",
+      "year": "2026",
+      "credit": "Single",
+      "url": "https://music.amazon.in/albums/B0GSVMGPPZ",
+      "asset": "assets/music__addiyaan.webp",
+      "artwork_source": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e9/e1/af/e9e1af06-d3ed-f755-9d45-3727494cc997/cover.jpg/700x700bb.jpg",
+      "artwork_page": "https://music.apple.com/in/album/addiyaan-single/1885551203?uo=4",
+      "matched_title": "Addiyaan - Single",
+      "matched_artist": "Jasbir Jassi"
+    },
+    {
+      "title": "Teri Chan Ve",
+      "group": "recent",
+      "year": "2026",
+      "credit": "Single",
+      "url": "https://music.amazon.in/albums/B0GLQ37G3J",
+      "asset": "assets/music__teri-chan-ve.webp",
+      "artwork_source": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1a/14/13/1a14138f-38b4-09c7-1b1c-9a40857fd3fc/cover.jpg/700x700bb.jpg",
+      "artwork_page": "https://music.apple.com/in/album/teri-chan-ve-single/1874972537?uo=4",
+      "matched_title": "Teri Chan Ve - Single",
+      "matched_artist": "Jasbir Jassi"
+    },
+    {
+      "title": "Nach Nach Ke Lohri",
+      "group": "recent",
+      "year": "2026",
+      "credit": "With Muhammad Sadiq",
+      "url": "https://music.amazon.in/albums/B0GFP5WWDS",
+      "asset": "assets/music__nach-nach-ke-lohri.webp",
+      "artwork_source": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ab/d6/b1/abd6b1b0-acb1-8cb6-cee7-7b5f5afe2c1c/cover.jpg/700x700bb.jpg",
+      "artwork_page": "https://music.apple.com/in/album/nach-nach-ke-lohri-single/1867583543?uo=4",
+      "matched_title": "Nach Nach Ke Lohri - Single",
+      "matched_artist": "Muhammad Sadiq & Jasbir Jassi"
+    },
+    {
+      "title": "Ganni",
+      "group": "recent",
+      "year": "2025",
+      "credit": "Single",
+      "url": "https://music.amazon.in/albums/B0G6TSXWM4",
+      "asset": "assets/gallery__latest__new6.jpg",
+      "artwork_type": "artist-photo",
+      "artwork_kind": "original artist photograph",
+      "artwork_source": "https://www.jasbirjassi.com/gallery/latest/new6.jpg",
+      "artwork_note": "Original artist photograph is used because matching release artwork could not be downloaded or verified."
+    },
+    {
+      "title": "Sufi Adda",
+      "group": "recent",
+      "year": "2025",
+      "credit": "EP \u00b7 Four tracks",
+      "url": "https://music.amazon.in/albums/B0G64CN639",
+      "asset": "assets/music__sufi-adda.webp",
+      "artwork_source": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3f/eb/8f/3feb8fef-86b0-62e8-edf5-93abe13c579a/cover.jpg/700x700bb.jpg",
+      "artwork_page": "https://music.apple.com/in/album/sufi-adda-ep/1860328083?uo=4",
+      "matched_title": "Sufi Adda - EP",
+      "matched_artist": "Jasbir Jassi"
+    },
+    {
+      "title": "Eh Hind Na Hunda",
+      "group": "recent",
+      "year": "2025",
+      "credit": "Single",
+      "url": "https://music.amazon.in/albums/B0G2BQ31LN",
+      "asset": "assets/music__eh-hind-na-hunda.webp",
+      "artwork_source": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/94/82/e9/9482e98e-b68f-d6e4-db3a-98aa982c13f1/cover.jpg/700x700bb.jpg",
+      "artwork_page": "https://music.apple.com/in/album/eh-hind-na-hunda-single/1852977429?uo=4",
+      "matched_title": "eh Hind Na Hunda - Single",
+      "matched_artist": "Jasbir Jassi"
+    },
+    {
+      "title": "Salok Mahalla 9",
+      "group": "recent",
+      "year": "2025",
+      "credit": "Devotional release",
+      "url": "https://music.amazon.in/albums/B0FZW5XQFK",
+      "asset": "assets/music__salok-mahalla-9.webp",
+      "artwork_source": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/32/c5/b3/32c5b34f-a03f-223b-755e-86ac16cab5ed/cover.jpg/700x700bb.jpg",
+      "artwork_page": "https://music.apple.com/in/album/salok-mahalla-9-ep/1850949400?uo=4",
+      "matched_title": "Salok Mahalla 9 - EP",
+      "matched_artist": "Jasbir Jassi"
+    },
+    {
+      "title": "Sees Diya Par Sirar Na Diya",
+      "group": "recent",
+      "year": "2025",
+      "credit": "Single",
+      "url": "https://music.amazon.in/albums/B0FZBWLD34",
+      "asset": "assets/music__sees-diya-par-sirar-na-diya.webp",
+      "artwork_source": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/40/5a/f9/405af95e-25c6-9651-3505-7c302dfa3a45/cover.jpg/700x700bb.jpg",
+      "artwork_page": "https://music.apple.com/in/album/sees-diya-par-sirar-na-diya-single/1850429941?uo=4",
+      "matched_title": "Sees Diya Par Sirar Na Diya - Single",
+      "matched_artist": "Jasbir Jassi"
+    },
+    {
+      "title": "Ishq-E-Desi",
+      "group": "recent",
+      "year": "2025",
+      "credit": "Jassi Weds Jassi \u00b7 Soundtrack",
+      "url": "https://music.amazon.in/albums/B0FZ9297V7",
+      "asset": "assets/music__ishq-e-desi.webp",
+      "artwork_source": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/72/e8/c4/72e8c465-d947-50e7-be2a-4be990e66d07/8909024102092.png/700x700bb.jpg",
+      "artwork_page": "https://music.apple.com/in/album/ishq-e-desi-from-jassi-weds-jassi-single/1850381773?uo=4",
+      "matched_title": "Ishq - E - Desi (From \"Jassi Weds Jassi\") - Single",
+      "matched_artist": "Jasbir Jassi, Asees Kaur, IP Singh & Akshay & IP"
+    },
+    {
+      "title": "Guru Ram Das",
+      "group": "recent",
+      "year": "2025",
+      "credit": "With Balbir Beera",
+      "url": "https://music.amazon.in/albums/B0FTXB3DSG",
+      "asset": "assets/music__guru-ram-das.webp",
+      "artwork_source": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/aa/ab/3e/aaab3e6c-d624-bdd7-8b25-35956c802509/cover.jpg/700x700bb.jpg",
+      "artwork_page": "https://music.apple.com/in/album/guru-ram-das-feat-balbir-beera-single/1844167368?uo=4",
+      "matched_title": "Guru Ram Das (feat. Balbir Beera) - Single",
+      "matched_artist": "Jasbir Jassi"
+    },
+    {
+      "title": "Heer Main Vekhi",
+      "group": "recent",
+      "year": "2025",
+      "credit": "Heer Express \u00b7 Soundtrack",
+      "url": "https://music.amazon.in/albums/B0FND2XN93",
+      "asset": "assets/music__heer-main-vekhi.webp",
+      "artwork_source": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5c/84/1a/5c841ad7-b364-ddec-e05b-7a42a5673967/8909024092744.png/700x700bb.jpg",
+      "artwork_page": "https://music.apple.com/in/album/heer-main-vekhi-from-heer-express-single/1834867567?uo=4",
+      "matched_title": "Heer Main Vekhi (From \"Heer Express\") - Single",
+      "matched_artist": "Jasbir Jassi, Jerry Singh, Sakaar Singh & Babu Singh Maan"
+    },
+    {
+      "title": "Channa Ve Teri Channani",
+      "group": "early",
+      "year": "1993",
+      "credit": "Debut album",
+      "url": "https://www.youtube.com/watch?v=pk0BDwVuP4M",
+      "artwork_page": "https://www.youtube.com/watch?v=pk0BDwVuP4M",
+      "artwork_kind": "original artist photograph",
+      "asset": "assets/gallery__latest__new2.jpg",
+      "artwork_type": "artist-photo",
+      "artwork_source": "https://www.jasbirjassi.com/gallery/latest/new2.jpg",
+      "artwork_note": "Original artist photograph is used because matching release artwork could not be downloaded or verified."
+    },
+    {
+      "title": "Balle Balbiro Balle",
+      "group": "early",
+      "year": "\u2014",
+      "credit": "Album",
+      "url": "https://music.apple.com/in/album/balle-balbiro-balle/1162513679?i=1162513680&uo=4",
+      "matched_title": "Balle Balbiro Balle",
+      "matched_artist": "Jasbir Jassi",
+      "artwork_page": "https://music.apple.com/in/album/balle-balbiro-balle/1162513679?i=1162513680&uo=4",
+      "asset": "assets/music__balle-balbiro-balle.webp",
+      "artwork_source": "https://is1-ssl.mzstatic.com/image/thumb/Music62/v4/06/dc/56/06dc5699-010b-1986-bca0-050a2e676ce0/8903431556684_cover.jpg/700x700bb.jpg"
+    },
+    {
+      "title": "Saawan",
+      "group": "early",
+      "year": "\u2014",
+      "credit": "Album",
+      "url": "https://www.youtube.com/results?search_query=Jasbir+Jassi+Saawan",
+      "asset": "assets/gallery__latest__new3.jpg",
+      "artwork_type": "artist-photo",
+      "artwork_kind": "original artist photograph",
+      "artwork_source": "https://www.jasbirjassi.com/gallery/latest/new3.jpg",
+      "artwork_note": "Original artist photograph is used because matching release artwork could not be downloaded or verified.",
+      "link_type": "search"
+    },
+    {
+      "title": "Ranjha",
+      "group": "early",
+      "year": "2015",
+      "credit": "Single",
+      "url": "https://music.apple.com/in/album/ranjha/1226031929?i=1226032516&uo=4",
+      "matched_title": "Love Songs from Punjab",
+      "matched_artist": "Jasbir Jassi",
+      "artwork_page": "https://music.apple.com/in/album/ranjha/1226031929?i=1226032516&uo=4",
+      "asset": "assets/music__ranjha.webp",
+      "artwork_source": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/87/57/21/87572142-7c68-b6c7-e90b-802ad32863c1/191773042509.jpg/700x700bb.jpg"
+    },
+    {
+      "title": "O Laal Ni",
+      "group": "early",
+      "year": "2016",
+      "credit": "With Jasmine Sandlas",
+      "url": "https://music.apple.com/in/album/o-lal-nee-single/1523939180?uo=4",
+      "asset": "assets/music__o-laal-ni.webp",
+      "artwork_source": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/e1/a4/0d/e1a40dbe-a016-1f3c-10eb-1df3b68461c9/8718857701965.png/700x700bb.jpg",
+      "artwork_page": "https://music.apple.com/in/album/o-lal-nee-single/1523939180?uo=4",
+      "matched_title": "O Lal Nee - Single",
+      "matched_artist": "Jasbir Jassi"
+    },
+    {
+      "title": "Tere Bina",
+      "group": "early",
+      "year": "2020",
+      "credit": "Single",
+      "url": "https://open.spotify.com/track/0bHo6JtEWg1s3sONumxF5i",
+      "artwork_page": "https://open.spotify.com/track/0bHo6JtEWg1s3sONumxF5i",
+      "asset": "assets/music__tere-bina.webp",
+      "artwork_source": "https://i.scdn.co/image/ab67616d0000b273d3f9a62e81c15fb2348f935d"
+    },
+    {
+      "title": "Main Hova Tu Hove",
+      "group": "early",
+      "year": "2020",
+      "credit": "Single",
+      "url": "https://www.youtube.com/results?search_query=Jasbir+Jassi+Main+Hova+Tu+Hove",
+      "asset": "assets/gallery__latest__new8.jpg",
+      "artwork_type": "artist-photo",
+      "artwork_kind": "original artist photograph",
+      "artwork_source": "https://www.jasbirjassi.com/gallery/latest/new8.jpg",
+      "artwork_note": "Original artist photograph is used because matching release artwork could not be downloaded or verified.",
+      "link_type": "search"
+    },
+    {
+      "title": "Allah Noor Upaya",
+      "group": "early",
+      "year": "2020",
+      "credit": "Devotional release",
+      "url": "https://www.youtube.com/watch?v=6_39Ll-lTjg",
+      "artwork_page": "https://www.youtube.com/watch?v=6_39Ll-lTjg",
+      "artwork_kind": "original artist photograph",
+      "asset": "assets/gallery__latest__new5.jpg",
+      "artwork_type": "artist-photo",
+      "artwork_source": "https://www.jasbirjassi.com/gallery/latest/new5.jpg",
+      "artwork_note": "Original artist photograph is used because matching release artwork could not be downloaded or verified."
+    },
+    {
+      "title": "Mere Kool",
+      "group": "early",
+      "year": "2021",
+      "credit": "Single",
+      "url": "https://www.youtube.com/results?search_query=Jasbir+Jassi+Mere+Kool",
+      "asset": "assets/gallery__latest__new11.jpg",
+      "artwork_type": "artist-photo",
+      "artwork_kind": "original artist photograph",
+      "artwork_source": "https://www.jasbirjassi.com/gallery/latest/new11.jpg",
+      "artwork_note": "Original artist photograph is used because matching release artwork could not be downloaded or verified.",
+      "link_type": "search"
+    },
+    {
+      "title": "Badnaam",
+      "group": "early",
+      "year": "2021",
+      "credit": "Single",
+      "url": "https://www.youtube.com/watch?v=6lCsKupm3wM",
+      "artwork_page": "https://www.youtube.com/watch?v=6lCsKupm3wM",
+      "artwork_kind": "original artist photograph",
+      "asset": "assets/gallery__latest__new4.jpg",
+      "artwork_type": "artist-photo",
+      "artwork_source": "https://www.jasbirjassi.com/gallery/latest/new4.jpg",
+      "artwork_note": "Original artist photograph is used because matching release artwork could not be downloaded or verified."
+    },
+    {
+      "title": "Ek Tara Vajda",
+      "group": "early",
+      "year": "2024",
+      "credit": "Music video",
+      "url": "https://www.youtube.com/watch?v=QLCKejc_CX4",
+      "asset": "assets/images__Ek-Tara-Vajda-2.jpg",
+      "artwork_source": "https://www.jasbirjassi.com/images/Ek-Tara-Vajda-2.jpg"
+    },
+    {
+      "title": "Yaad",
+      "group": "early",
+      "year": "2024",
+      "credit": "Music video",
+      "url": "https://www.youtube.com/watch?v=iNat40f6oXU",
+      "asset": "assets/images__yaad-1.jpg",
+      "artwork_source": "https://www.jasbirjassi.com/images/yaad-1.jpg"
+    },
+    {
+      "title": "HOKKE",
+      "group": "early",
+      "year": "2024",
+      "credit": "Music video",
+      "url": "https://www.youtube.com/watch?v=1OwyT1p9yiI",
+      "asset": "assets/images__hokke.jpg",
+      "artwork_source": "https://www.jasbirjassi.com/images/hokke.jpg"
+    },
+    {
+      "title": "Nachda Alam Sara",
+      "group": "early",
+      "year": "2024",
+      "credit": "Music video",
+      "url": "https://www.youtube.com/watch?v=zS4anOMv2S8",
+      "asset": "assets/images__th-vid-35.jpg",
+      "artwork_source": "https://www.jasbirjassi.com/images/th-vid-35.jpg"
+    },
+    {
+      "title": "ANGELS",
+      "group": "early",
+      "year": "2024",
+      "credit": "Music video",
+      "url": "https://www.youtube.com/watch?v=7l9tMFOk3gA",
+      "asset": "assets/images__th-vid-36.jpg",
+      "artwork_source": "https://www.jasbirjassi.com/images/th-vid-36.jpg"
+    },
+    {
+      "title": "Aarti Full EP",
+      "group": "early",
+      "year": "2024",
+      "credit": "Music video",
+      "url": "https://www.youtube.com/watch?v=W0yrn7rZZ1g",
+      "asset": "assets/images__th-vid-37.jpg",
+      "artwork_source": "https://www.jasbirjassi.com/images/th-vid-37.jpg"
+    },
+    {
+      "title": "Lehanga",
+      "group": "early",
+      "year": "2022",
+      "credit": "Music video",
+      "url": "https://www.youtube.com/watch?v=qBLmItodwVs",
+      "asset": "assets/images__th-vid-38.jpg",
+      "artwork_source": "https://www.jasbirjassi.com/images/th-vid-38.jpg"
+    },
+    {
+      "title": "Maaf Kari Baba Nanaka",
+      "group": "early",
+      "year": "2022",
+      "credit": "Music video",
+      "url": "https://www.youtube.com/watch?v=JRm2RDNJ2n0",
+      "asset": "assets/images__th-vid-31.jpg",
+      "artwork_source": "https://www.jasbirjassi.com/images/th-vid-31.jpg"
+    },
+    {
+      "title": "Story Of Punjab",
+      "group": "early",
+      "year": "2022",
+      "credit": "Music video",
+      "url": "https://www.youtube.com/watch?v=rfmSE7q3Zfw",
+      "asset": "assets/images__th-vid-33.jpg",
+      "artwork_source": "https://www.jasbirjassi.com/images/th-vid-33.jpg"
+    },
+    {
+      "title": "Ajj da Punjab (AAP)",
+      "group": "early",
+      "year": "2022",
+      "credit": "Music video",
+      "url": "https://www.youtube.com/watch?v=o42oF03-6lc",
+      "asset": "assets/images__th-vid-32.jpg",
+      "artwork_source": "https://www.jasbirjassi.com/images/th-vid-32.jpg"
+    },
+    {
+      "title": "Kasad",
+      "group": "early",
+      "year": "2022",
+      "credit": "Music video",
+      "url": "https://www.youtube.com/watch?v=T8EruPkyDZQ",
+      "asset": "assets/images__th-vid-20.jpg",
+      "artwork_source": "https://www.jasbirjassi.com/images/th-vid-20.jpg"
+    },
+    {
+      "title": "Why Nachdi Na",
+      "group": "early",
+      "year": "2022",
+      "credit": "Music video",
+      "url": "https://www.youtube.com/watch?v=Fax4FDQ9xLI",
+      "asset": "assets/images__th-vid-21.jpg",
+      "artwork_source": "https://www.jasbirjassi.com/images/th-vid-21.jpg"
+    },
+    {
+      "title": "Heer",
+      "group": "early",
+      "year": "2021",
+      "credit": "Music video",
+      "url": "https://www.youtube.com/watch?v=7z4jLN9lbs8",
+      "asset": "assets/images__th-vid-22.jpg",
+      "artwork_source": "https://www.jasbirjassi.com/images/th-vid-22.jpg"
+    },
+    {
+      "title": "Jaani",
+      "group": "early",
+      "year": "2021",
+      "credit": "Music video",
+      "url": "https://www.youtube.com/watch?v=pdu6uibryI4",
+      "asset": "assets/images__th-vid-24.jpg",
+      "artwork_source": "https://www.jasbirjassi.com/images/th-vid-24.jpg"
+    },
+    {
+      "title": "Rooh Da Hani",
+      "group": "early",
+      "year": "2021",
+      "credit": "Music video",
+      "url": "https://www.youtube.com/watch?v=xJux_P5nZBA",
+      "asset": "assets/images__th-vid-23.jpg",
+      "artwork_source": "https://www.jasbirjassi.com/images/th-vid-23.jpg"
+    },
+    {
+      "title": "AZAADI - The Independence",
+      "group": "early",
+      "year": "2021",
+      "credit": "Music video",
+      "url": "https://www.youtube.com/watch?v=j9W3qQDM0LE",
+      "asset": "assets/images__th-vid-25.jpg",
+      "artwork_source": "https://www.jasbirjassi.com/images/th-vid-25.jpg"
+    },
+    {
+      "title": "Ik Sufna",
+      "group": "early",
+      "year": "2020",
+      "credit": "Music video",
+      "url": "https://www.youtube.com/watch?v=0Jo9DE5b1pg",
+      "asset": "assets/images__th-vid-28.jpg",
+      "artwork_source": "https://www.jasbirjassi.com/images/th-vid-28.jpg"
+    },
+    {
+      "title": "Dil Mangdi",
+      "group": "early",
+      "year": "\u2014",
+      "credit": "Music video",
+      "url": "https://www.youtube.com/watch?v=b1adTx8wfts",
+      "asset": "assets/images__th-vid-29.jpg",
+      "artwork_source": "https://www.jasbirjassi.com/images/th-vid-29.jpg"
+    },
+    {
+      "title": "Vede Aa Varh",
+      "group": "early",
+      "year": "\u2014",
+      "credit": "Music video",
+      "url": "https://www.youtube.com/watch?v=65QtNT1Hf1A",
+      "asset": "assets/images__th-vid-30.jpg",
+      "artwork_source": "https://www.jasbirjassi.com/images/th-vid-30.jpg"
+    },
+    {
+      "title": "Meri Channo",
+      "group": "early",
+      "year": "2019",
+      "credit": "Music video",
+      "url": "https://www.youtube.com/watch?v=jSCvotKXhfg",
+      "asset": "assets/images__th-vid-18.jpg",
+      "artwork_source": "https://www.jasbirjassi.com/images/th-vid-18.jpg"
+    },
+    {
+      "title": "Haaye Ve",
+      "group": "early",
+      "year": "2019",
+      "credit": "Music video",
+      "url": "https://www.youtube.com/watch?v=glaZwDDrTSo",
+      "asset": "assets/images__th-vid-19.jpg",
+      "artwork_source": "https://www.jasbirjassi.com/images/th-vid-19.jpg"
+    },
+    {
+      "title": "Tere Thumke",
+      "group": "early",
+      "year": "2018",
+      "credit": "Music video",
+      "url": "https://www.youtube.com/watch?v=k1kaTGUHgDs",
+      "asset": "assets/images__terethumke.jpg",
+      "artwork_source": "https://www.jasbirjassi.com/images/terethumke.jpg"
+    },
+    {
+      "title": "Punjab Mere Layi",
+      "group": "early",
+      "year": "2016",
+      "credit": "Music video",
+      "url": "https://www.youtube.com/watch?v=loAual6sMqM",
+      "asset": "assets/images__punjab_mere_layi_v.jpg",
+      "artwork_source": "https://www.jasbirjassi.com/images/punjab_mere_layi_v.jpg"
+    }
+  ]
+}
